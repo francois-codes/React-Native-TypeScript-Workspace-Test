@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "noErrorTruncation": true,
+    "allowJs": true,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": false,
+    "strictNullChecks": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "noImplicitThis": false,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "target": "es2015",
+    "module": "commonjs",
+    "jsx": "react",
+    "lib": ["esnext"],
+    "baseUrl": ".",
+    "rootDir": ".",
+    "paths": {
+      "~/*": ["*"]
+    }
+  },
+  "exclude": ["node_modules", "**/lib/**/*", "**/__tests__/**/*"]
+}

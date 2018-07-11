@@ -1,0 +1,1 @@
+{"version":3,"file":"DecorateHello.js","sourceRoot":"","sources":["../src/DecorateHello.tsx"],"names":[],"mappings":";;AAAA,+BAA+B;AAG/B,uBACE,gBAA4C;IAE5C,MAAM,cAAc,GAAU;QAC5B,IAAI,EAAE,MAAM;QACZ,eAAe,EAAE,CAAC;QAClB,GAAG,EAAE,KAAK;KACX,CAAC;IAEF,OAAO,oBAAqB,SAAQ,KAAK,CAAC,SAAa;QACrD,MAAM;YACJ,OAAO,oBAAC,gBAAgB,oBAAK,cAAc,EAAI,CAAC;QAClD,CAAC;KACF,CAAC;AACJ,CAAC;AAdD,sCAcC"}

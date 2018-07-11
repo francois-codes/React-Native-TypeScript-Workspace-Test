@@ -1,0 +1,23 @@
+{
+  "name": "tstest-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts:build": "tsc",
+    "ts:watch": "tsc --watch -p tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.4.1",
+    "react-native": "^0.55.4"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.4",
+    "@types/react-native": "^0.55.26",
+    "typescript": "^2.9.2"
+  }
+}
